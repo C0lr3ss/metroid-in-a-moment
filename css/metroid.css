@@ -18,7 +18,7 @@ header p{
 header img{
     width: 1550px;
     height: 700px;
-    border: 4px solid black;
+    border: 4px solid darkslategray;
     border-radius: 50px;
 }
 main{
