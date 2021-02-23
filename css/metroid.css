@@ -1,0 +1,64 @@
+body{
+    background-color: slategray;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    line-height: 20px;
+}
+header{
+    background-color: slategray;
+    text-align: center;
+}
+h2, h3{
+    font-family: 'Press Start 2P', 'Courier New', Courier, monospace;
+}
+header p{
+    color: white;
+}
+header img{
+    width: 1550px;
+    height: 700px;
+    border: 4px solid black;
+    border-radius: 50px;
+}
+main{
+    background-color: black;
+    border: 4px solid darkslategray;
+    border-radius: 20px;
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: skyblue;
+}
+h2{
+    color: red;
+    margin: 40px 0px 10px;
+}
+h3{
+    color: red;
+}
+main p{
+    color: lime;
+    text-align: justify;
+}
+main ul{
+    color: lime;
+}
+main img{
+    border: 2px solid white;  
+}
+p.caption{
+    color: skyblue;
+    font-style: italic;
+    margin-top: 0px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
