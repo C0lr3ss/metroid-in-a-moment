@@ -18,12 +18,12 @@ header p{
 header img{
     width: 1550px;
     height: 700px;
-    border: 4px solid darkslategray;
+    border: 4px solid darkslategrey;
     border-radius: 50px;
 }
 main{
     background-color: black;
-    border: 4px solid darkslategray;
+    border: 4px solid darkslategrey;
     border-radius: 20px;
     max-width: 1050px;
     margin: 0 auto;
