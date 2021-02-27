@@ -46,11 +46,14 @@ main p{
     color: lime;
     text-align: justify;
 }
+main ol{
+    color: lime;
+}
 main ul{
     color: lime;
 }
 main img{
-    border: 2px solid white;  
+    border: 2px solid slategray;  
 }
 p.caption{
     color: skyblue;
